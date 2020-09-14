@@ -5,7 +5,7 @@ The purpose of our study is to find the bacterial species that have the abilitie
 
 ### Resources
 - Source Files: [samples.json](/static/js/samples.json), [jumbotron_bg.jpg](/static/image/jumbotron_bg.jpg)
-- Result Files: [charts.js](/static/js/charts.js), [index.html](index.html),[app.css](/static/css/app.css)
+- Result Files: [charts.js](/static/js/charts.js), [index.html](index.html),[app.css](/static/css/app.css), [Belly Button Biodiversity Webage](https://kassielu.github.io/Belly_Button_Biodiversity/)
 - Software: HTML, JavaScript, Bootstrap, CSS, Plotly, and D3.js
 
 ## Summary
