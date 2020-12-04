@@ -1,4 +1,4 @@
-# Belly_Button_Biodiversity
+# Belly Button Biodiversity Using D3.js
 
 ## Project Overview
 The purpose of our study is to find the bacterial species that have the abilities to synthesis proteins to taste like beef for Improbable Beef, a food startup company. Since the human body is the source of thousands types of bacteria and different parts of the body harbor differnt species, we believe the ideal bacterial species to make synthetic beef can be found in the belly button or at least in someone's belly button. To test our hypothesis, we have sampled the navel of people across the U.S., to identify the bacterial species that colonize our belly buttons. Each participant's identiy is anonymous, and have been assigned an ID number. We have used JavaScript, Plotly, and D3.js to created a dashboard for participants and fellow researchers to access the data. Those who participated can select their id number to see which bacterial species lives in their navel.
